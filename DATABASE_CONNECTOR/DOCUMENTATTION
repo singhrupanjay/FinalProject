@@ -1,0 +1,4 @@
+npm init -y
+npm i express
+npm i mongoose - to connect node to mongo
+npm i hbs - templating engine
